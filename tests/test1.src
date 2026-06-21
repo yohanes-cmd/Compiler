@@ -1,0 +1,5 @@
+var x = 10;
+var y = 5;
+var sampah = 99;
+var z = x + y * 2;
+print(z);

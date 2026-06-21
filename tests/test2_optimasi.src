@@ -1,0 +1,5 @@
+var panjang = 10 * 5;
+var lebar = 50;
+var luas = panjang * lebar;
+var rahasia = 999;
+print(luas);

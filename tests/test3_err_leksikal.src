@@ -1,0 +1,2 @@
+var harga = 100 $;
+print(harga);
